@@ -16,7 +16,7 @@ LZUOSS Mirror Site provides the mirrors of  several popular open source software
 
 Please [submit an issue](https://github.com/LZUOSS/Mirror/issues/new) to inform us if there are something wrong, or you have any suggestion, or you want us to add a new mirror repository.
 
-- Mirror：[http://mirror.lzu.edu.cn](http://mirror.lzu.edu.cn)
+- Mirror：[https://mirror.lzu.edu.cn](https://mirror.lzu.edu.cn)
 - Support：[https://oss.lzu.edu.cn](http://oss.lzu.edu.cn)
 
 ---
